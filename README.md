@@ -26,7 +26,7 @@ Below is a list of featured projects. Each one includes a brief description and 
 - **[Guess The Number](https://github.com/haidarabbasbalospura/Projects/tree/main/4%20-%20Guess%20The%20Number)**<br>
   Test your luck and intuition with this fun number guessing game.
 
-- **[Temperature Converter](https://github.com/haidarabbasbalospura/Projects/tree/main/5%20-%20Temperature%20Converter)**<br>
+- **[Temperature Converter](https://github.com/haidarabbasbalospura/Projects/tree/main/5%20-%20Temprature%20Converter)**<br>
   Easily convert temperatures between Celsius and Fahrenheit.
 
 - **[Word Counter](https://github.com/haidarabbasbalospura/Projects/tree/main/6%20-%20Word%20Counter)**<br>

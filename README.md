@@ -6,7 +6,7 @@ Explore a variety of small, interactive web projects built using HTML, CSS, and 
 
 ## Projects Site
 
-All of these projects are hosted and can be interacted with directly via [Projects by Haidarbalospura](https://project-by-haidarbalospura.netlify.app).
+All of these projects are hosted and can be interacted with directly via [Project Site](https://project-by-haidarbalospura.netlify.app).
 
 ## Featured Projects
 
